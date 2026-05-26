@@ -3,3 +3,4 @@ Autonomous landing works.
 Licensed for demo use.
 CI: green means merged.
 Contributions via autonomous agents.
+Changelog tracked here.
